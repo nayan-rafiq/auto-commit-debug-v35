@@ -1,5 +1,5 @@
 {
-    "mobileBottomRow": 5,
+    "mobileBottomRow": 13,
     "widgetName": "Text1",
     "displayName": "Text",
     "iconSVG": "/static/media/icon.a47d6d5dbbb718c4dc4b2eb4f218c1b7.svg",
@@ -8,8 +8,8 @@
         "paragraph",
         "label"
     ],
-    "topRow": 1,
-    "bottomRow": 6,
+    "topRow": 9,
+    "bottomRow": 14,
     "parentRowSpace": 10,
     "type": "TEXT_WIDGET",
     "hideCard": false,
@@ -33,7 +33,7 @@
     "rightColumn": 17,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
-    "widgetId": "kf7v0ozbeb",
+    "widgetId": "5zlzbw3yfv",
     "minWidth": 450,
     "isVisible": true,
     "fontStyle": "BOLD",
@@ -46,13 +46,13 @@
     ],
     "renderMode": "CANVAS",
     "isLoading": false,
-    "mobileTopRow": 1,
+    "mobileTopRow": 9,
     "responsiveBehavior": "fill",
-    "originalTopRow": 1,
+    "originalTopRow": 9,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 1,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 6,
+    "originalBottomRow": 13,
     "fontSize": "1rem",
     "minDynamicHeight": 4
 }
